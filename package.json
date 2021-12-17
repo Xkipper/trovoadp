@@ -1,6 +1,6 @@
 {
   "name": "botbuilder-adapter-trovo-heroku",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "An adapter to support Trovo.live chat using botkit and botbuilder. Mod for Heroku's slugs. CDP session is only available in Chromium.",
   "keywords": [
     "bot, botkit, botbuilder, adapter, trovo, chat, heroku"
